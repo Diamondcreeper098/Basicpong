@@ -1,2 +1,2 @@
 # Basicpong
-A ping made with qb64
+A pong made with qb64
